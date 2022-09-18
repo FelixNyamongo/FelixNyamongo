@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FelixNyamongo
+- 👀 I’m interested in Everything
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on anything where I get paid
+- 📫 How to reach me -> Email me
