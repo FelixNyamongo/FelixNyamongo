@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @FelixNyamongo
-- 👀 I’m interested in Everything
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on anything where I get paid
-- 📫 How to reach me -> Email me
+- I have worked as a freelance developer for three years.
+Most of my projects have been with private clients, therefore, I am available to showcase the projects to any potential recruiter privately to avoid violating N.D.As
+I am skilled in;
+1. Android development with java
+2. Application development with Flutter
+3. Desktop development with Java
+4. Web development with Flask
